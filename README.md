@@ -12,6 +12,28 @@ Ele combina fundamentos sólidos, conceitos avançados de React 18/19, padrões 
 🔻 Baixa prioridade – Conteúdos úteis, mas opcionais ou pouco cobrados.  
 (sem ícone) Prioridade média – Importante, mas não urgente.
 
+# 📚 Índice
+
+- [1. CLI Tools](#1-cli-tools)
+- [2. React Fundamentals](#2-react-fundamentals)
+- [3. Components Advanced](#3-components-advanced)
+- [4. Rendering (Modern React 18+)](#4-rendering-modern-react-18)
+- [5. Hooks](#5-hooks)
+- [6. Routing](#6-routing)
+- [7. State Management](#7-state-management)
+- [8. Styling](#8-styling)
+- [9. API Calls](#9-api-calls)
+- [10. Testing](#10-testing)
+- [11. Frameworks](#11-frameworks)
+- [12. Forms](#12-forms)
+- [13. Types e Validation](#13-types-e-validation)
+- [14. Animation](#14-animation)
+- [15. Advanced Topics](#15-advanced-topics)
+- [16. Accessibility (A11y)](#16-accessibility-a11y)
+- [17. Internationalization (i18n)](#17-internationalization-i18n)
+- [18. Web Performance](#18-web-performance)
+- [19. Frontend Security](#19-frontend-security)
+
 # 1. CLI Tools
 ## Conceitos essenciais 🔺
 - Bundler

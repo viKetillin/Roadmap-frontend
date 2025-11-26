@@ -1,15 +1,16 @@
 # 🚀 Roadmap Frontend — React 2025 do Básico ao Avançado
 
----
-
-✨ Nota
+# ✨ Nota
 
 Este roadmap foi criado com base no material [roadmap.sh](https://roadmap.sh/react),
 e recebeu diversas atualizações pessoais para refletir o que considero essencial para a prática moderna de desenvolvimento front-end e preparação para entrevistas internacionais.
 
 Ele combina fundamentos sólidos, conceitos avançados de React 18/19, padrões arquiteturais, performance, acessibilidade e tópicos complementares que eu acredito serem indispensáveis para um desenvolvedor(a) completo(a) em 2025.
 
----
+# 🧭 Legenda dos ícones
+🔺 Alta prioridade – Tópicos essenciais para dominar React moderno e passar em entrevistas internacionais.
+🔻 Baixa prioridade – Conteúdos úteis, mas opcionais ou pouco cobrados.
+(sem ícone) Prioridade média – Importante, mas não urgente.
 
 # 1. CLI Tools
 ## Conceitos essenciais 🔺
